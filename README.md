@@ -6,7 +6,7 @@ This project analyzes tire data collected during cornering tests for seven diffe
 
 ## Acknowledgements
 
- - [Formula SAE Tire Test Consortium (FSAE TTC)](http://www.fsaettc.org/)
+ - [Formula SAE Tire Test Consortium (FSAE TTC)](http://www.millikenresearch.com/fsaettc.html)
  - [Calspan Tire Research Facility (TIRF)](https://calspan.com/)
  - [Formula SAE® – Tire Force and Moments Overview](https://www.youtube.com/watch?v=2tIr8pgo4ds)
 
