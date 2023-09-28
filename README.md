@@ -1,7 +1,7 @@
 
 # Tire Data Analysis - Cornering
 
-This project centers around the analysis of tire data collected during cornering tests for seven different tires. The analysis includes plotting normalized saturated Fy vs. Fz, and plotting corner stiffness vs. Fz under two distinct pressure conditions.
+This project analyzes tire data collected during cornering tests for seven different tires. The analysis includes plotting Normalized Saturated Fy vs. Fz and plotting Corner Stiffness vs. Fz under two distinct pressure conditions.
 
 
 ## Acknowledgements
@@ -21,9 +21,9 @@ This project centers around the analysis of tire data collected during cornering
 
 - Fit Lateral Force vs. Slip Angle curves
 
-- Calculate saturated lateral force
+- Calculate Saturated Lateral Force
 
-- Calculate corner stiffness
+- Calculate Corner Stiffness
 
 - Create informative plots
 
