@@ -11,6 +11,14 @@ This project analyzes tire data collected during cornering tests for seven diffe
  - [Formula SAE® – Tire Force and Moments Overview](https://www.youtube.com/watch?v=2tIr8pgo4ds)
 
 
+## Screenshots
+
+![](Input%20Parameters%20Over%20Time.png)
+![](FY%20vs.%20SA.png)
+![](Normalized%20Saturated%20FY%20vs.%20FZ.png)
+![](Corner%20Stiffness%20vs.%20FZ.png)
+
+
 ## Roadmap
 
 - Read and import the test data
