@@ -13,10 +13,10 @@ This project analyzes tire data collected during cornering tests for seven diffe
 
 ## Screenshots
 
-![](image/Input%20Parameters%20Over%20Time.png)
-![](image/FY%20vs.%20SA.png)
-![](image/Normalized%20Saturated%20FY%20vs.%20FZ.png)
-![](image/Corner%20Stiffness%20vs.%20FZ.png)
+![](images/Input%20Parameters%20Over%20Time.png)
+![](images/FY%20vs.%20SA.png)
+![](images/Normalized%20Saturated%20FY%20vs.%20FZ.png)
+![](images/Corner%20Stiffness%20vs.%20FZ.png)
 
 
 ## Roadmap
